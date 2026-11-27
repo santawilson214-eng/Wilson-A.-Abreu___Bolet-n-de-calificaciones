@@ -9,7 +9,8 @@ Actividad individual de Programación Básica.
 
 Captura de pantalla
 
-![Formulario Boletín de Calificaciones](captura_boletin.png)
+<img width="1917" height="1063" alt="captura_boletin png" src="https://github.com/user-attachments/assets/b502c5de-d39f-47e6-a81c-1810958918cf" />
+
 
  Funcionamiento
 
